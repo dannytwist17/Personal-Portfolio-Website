@@ -22,12 +22,12 @@ It features:
 
 ## 🚀 Live Demo
 Check out the live site here 👇  
-👉 [https://yourusername.github.io/personal-portfolio](https://dannytwist17.github.io/personal-portfolio)
+👉 [https://dannytwist17.github.io/personal-portfolio](https://dannytwist17.github.io/personal-portfolio)
 
 ---
 
 ## 📸 Preview
-![Portfolio Screenshot](screenshot.png)
+![Portfolio Screenshot](20251019_170533.jpg)
 
 ---
 
